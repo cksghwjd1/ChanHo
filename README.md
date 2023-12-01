@@ -24,7 +24,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/cksghwjd1/testio.io/blob/c4a3936b2eab00b191fc34fab3ea02afe4417b58/index.html#L19C2-L19C2) 참고
 
 ---
 
